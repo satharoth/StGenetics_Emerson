@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\emerson.pulido\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\emerson.pulido\\.nuget\\packages"
+    ]
+  }
+}
